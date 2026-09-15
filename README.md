@@ -3,3 +3,5 @@ Beginner-friendly discussion questions about AI agents.
 
 
 Pull Shark practice note 1.
+
+Pull Shark practice note 2.
